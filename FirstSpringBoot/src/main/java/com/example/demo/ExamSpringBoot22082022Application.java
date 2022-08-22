@@ -1,3 +1,9 @@
+/*Write an application using SpringMVC with SpringBoot.
+
+You need to read data dynamically from Customer (customerid,customername,customerphone,customeraddress,customerloginid,customerpassword)
+
+ and then display on webpage.*/
+
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
