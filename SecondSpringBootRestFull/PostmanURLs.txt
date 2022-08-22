@@ -1,0 +1,12 @@
+For Get
+http://localhost:8080/customers
+http://localhost:8080/customer/101
+
+For Post
+http://localhost:8080/customer
+
+For Put
+http://localhost:8080/customer
+
+For Delete
+http://localhost:8080/customers/101
